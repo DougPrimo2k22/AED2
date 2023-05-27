@@ -1,0 +1,10 @@
+#include <stdio.h>
+void funcaoExemplo ( int *a) {
+    *a = (*a) * 2;
+}
+
+int main ( ) {
+    int a = 5, resultado;
+    funcaoExemplo (&a);
+    printf ("a = %d", a);
+}
