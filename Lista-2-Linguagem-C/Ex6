@@ -1,8 +1,8 @@
 /******************************************************************************
-
+Douglas Ferreira Primo        -         2AN       -         08/03/2023
 lISTA 2 - EXERCÍCIO 6
-          A) imprima o maior elemento 
-          B) imprima a posição do maior elemento
+       Faça um programa para ler a nota da prova de 15 alunos e armazene num vetor,
+calcule e imprima a média geral.
 
 ******************************************************************************/
 
