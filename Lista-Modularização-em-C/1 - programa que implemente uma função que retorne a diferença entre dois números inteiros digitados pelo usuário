@@ -1,3 +1,13 @@
+/******************************************************************************
+
+Douglas Ferreira Primo- 	2AN	- 	30/03/2023
+
+EXERCÍCIO 1
+ Escreva um programa que implemente uma função que retorne a diferença entre dois números inteiros digitados pelo usuário.  
+
+*******************************************************************************/
+
+
 #include <stdio.h>
 
 int dif(int a, int b);
