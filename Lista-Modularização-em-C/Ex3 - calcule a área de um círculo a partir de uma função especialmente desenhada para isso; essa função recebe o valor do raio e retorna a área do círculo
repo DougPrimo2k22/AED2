@@ -1,3 +1,13 @@
+/******************************************************************************
+
+Douglas Ferreira Primo- 	2AN	- 	30/03/2023
+
+EXERCÍCIO 3
+  Escreva um programa que calcule a área de um círculo a partir de uma função especialmente desenhada para isso; essa função recebe o valor do raio e retorna a área do círculo.   
+
+*******************************************************************************/
+
+
 #include <stdio.h>
 
 float areacirculo(float a);
