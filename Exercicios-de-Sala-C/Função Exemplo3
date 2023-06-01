@@ -1,3 +1,10 @@
+/******************************************************************************
+Douglas Ferreira Primo- 	2AN	- 	23/02/2023
+
+Função usada para evidencia a utilização o uso do endereçamento através dos locais de memoria do codigo
+    
+*******************************************************************************/
+
 #include <stdio.h>
 void troca ( int a, int b, int c) {
     int temp;
