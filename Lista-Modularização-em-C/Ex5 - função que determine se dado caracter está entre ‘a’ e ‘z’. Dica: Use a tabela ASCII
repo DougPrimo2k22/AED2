@@ -1,3 +1,14 @@
+/******************************************************************************
+
+Douglas Ferreira Primo- 	2AN	- 	30/03/2023
+
+EXERCÍCIO 5
+  Crie uma função que determine se dado caracter está entre ‘a’ e ‘z’. Dica: Use a tabela ASCII.  
+
+*******************************************************************************/
+
+
+
 #include <stdio.h>
 
 int caracter(char letra);
