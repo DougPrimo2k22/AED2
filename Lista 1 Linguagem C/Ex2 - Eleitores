@@ -1,6 +1,6 @@
 /******************************************************************************
 
-Douglas Ferreira Primo- 	2AN	- 	08/03/2023
+Douglas Ferreira Primo- 	2AN	- 	15/02/2023
 Exercicio 2
     Escreva um algoritmo para ler o número total de eleitores de um município, o número de votos brancos, nulos e
 válidos. Calcular e escrever o percentual que cada um representa em relação ao total de eleitores.
