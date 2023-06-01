@@ -1,3 +1,10 @@
+/******************************************************************************
+Douglas Ferreira Primo- 	2AN	- 	23/02/2023
+
+Função utilizando valor da variavel utilizando seu endereço
+    
+*******************************************************************************/
+
 #include <stdio.h>
 void funcaoExemplo ( int *a) {
     *a = (*a) * 2;
