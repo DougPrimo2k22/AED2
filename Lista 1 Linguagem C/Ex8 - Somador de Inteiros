@@ -1,7 +1,10 @@
+/******************************************************************************
 
-
-
-
+Douglas Ferreira Primo- 	2AN	- 	08/03/2023
+Exercicio 8
+    Ler 2 valores, calcular e escrever a soma dos inteiros existentes entre os 2 valores lidos (incluindo os valores
+lidos na soma).
+*******************************************************************************/
 
 #include <stdio.h>
 
