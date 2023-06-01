@@ -1,3 +1,15 @@
+/******************************************************************************
+
+Douglas Ferreira Primo- 	2AN	- 	30/03/2023
+
+EXERCÍCIO 4
+  Crie um sistema de caixa eletrônico, utilizando menus (switch) e outros recursos, que realizem operações financeiras a partir de funções especificamente projetadas para tal.
+  Lembre-se de que o caixa eletrônico é um programa que roda como repetição contínua, até que o usuário decida encerrar as operações. Operações: Depósito, Saque e Saldo.  
+
+*******************************************************************************/
+
+
+
 #include <stdio.h>
 
 float saque(float saldo, float valor);
