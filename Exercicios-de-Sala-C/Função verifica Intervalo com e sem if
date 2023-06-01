@@ -1,10 +1,9 @@
-/*
+/******************************************************************************
+Douglas Ferreira Primo- 	2AN	- 	23/02/2023
 
-Douglas Ferreira Primo - 2AN 
-
-Exercicio 1 -  Implementar a função verificaIntervalo com e sem if
-
-*/
+EExercicio 1 -  Implementar a função verificaIntervalo com e sem if
+    
+*******************************************************************************/
 #include <stdio.h>
 
 int verificaIntervalo (int x, int min, int max) {
