@@ -5,7 +5,6 @@ Exercicio 3 -  Implementar e testar a função retornaPosicao
     
 *******************************************************************************/
 
-*/
 #include <stdio.h>
 int posMaior(int x, int y , int z);
 
