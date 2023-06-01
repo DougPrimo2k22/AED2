@@ -1,5 +1,9 @@
-/*Douglas Ferreira Primo - 2AN - Ciencia da Computação
-*/
+/******************************************************************************
+Douglas Ferreira Primo- 	2AN	- 	10/05/2023
+
+Função para listar bandas por nome, numero de integratnes ou estilo
+    
+*******************************************************************************/
 
 #include <stdio.h>
 #include <string.h>
