@@ -1,12 +1,11 @@
-/*
-
-Douglas Ferreira Primo - 2AN 
+/******************************************************************************
+Douglas Ferreira Primo- 	2AN	- 	23/02/2023
 
 Exercicio 1 -  Alterar a funcao muda (int n) para retornar um int. 
 Informar qual alteração deve ser feita no main para mostrar o valor
 alterado (Esse deve ser o novo valor de n.)
-
-*/
+    
+*******************************************************************************/
 #include <stdio.h>
 
 int muda(int n);
